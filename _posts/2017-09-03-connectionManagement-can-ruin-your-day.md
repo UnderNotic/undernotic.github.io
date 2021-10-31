@@ -19,7 +19,7 @@ This affects http calls, every one of these need established tcp connection "und
 
 Together with various http headers it can be misunderstood providing unexpected behaviour.
 
-[^1]: <http://blog.catchpoint.com/2010/09/17/anatomyhttp/>
+[^1]: <https://www.catchpoint.com/blog/http-transaction-steps/>
 
 ```xml
 <configuration>  
